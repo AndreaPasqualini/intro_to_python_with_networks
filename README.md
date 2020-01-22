@@ -36,4 +36,4 @@ They are convenient because GitHub renders these notebooks in a web browser.
 This means I can share code and explain it in one single document.
 It also means I do not have to fiddle with LaTeX, code listings and screenshots.
 
-If you are interested in understanding how to create a Jupyter Notebook, read the mini-tutorial I wrote or check the [official documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html).
+If you are interested in understanding how to create a Jupyter Notebook, read the [mini-tutorial](./jupyter_notebooks_tutorial.md) I wrote or check the [official documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html).
