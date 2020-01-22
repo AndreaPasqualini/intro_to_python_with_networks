@@ -35,5 +35,6 @@ In essence, they are web documents that embed both code and text.
 They are convenient because GitHub renders these notebooks in a web browser.
 This means I can share code and explain it in one single document.
 It also means I do not have to fiddle with LaTeX, code listings and screenshots.
+Each of these notebooks can be easily exported to HTML files, so that you can open them in your browser and you do not need to have Python installed to read them.
 
 If you are interested in understanding how to create a Jupyter Notebook, read the [mini-tutorial](./jupyter_notebooks_tutorial.md) I wrote or check the [official documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html).
